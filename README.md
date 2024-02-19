@@ -1,2 +1,3 @@
-# projetos_frontendmentor
-Repositório dedicado aos projetos desenvolvidos com FrontEnd Mentor
+# Projetos Front End Mentor
+
+Repositório dedicado aos projetos desenvolvidos com Front End Mentor, para aprimorar e desenvolver minhas habilidades em frontend.
